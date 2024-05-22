@@ -13,7 +13,7 @@ testando essa bagaç
 testando essa bagaça
     </header>
     <main>
-        <!-- ## Movimento o sul é meu país, refutado
+        <!-- # Movimento o sul é meu país, refutado
       O "País Sul" deveria ter sua economia baseada no agronegócio e na exportação de commodities, porém sem o protecionismo do estado brasileiro, isso mesmo, quem vive do agronegócio está sujeito aos efeitos climáticos e meteorológicos, e sem o guarda-chuva do governo os prejuízos seriam exorbitantes. Ninguém fala, mas o Brasil deixa de arrecadar todo ano [$R 14,3 Bi](https://www.redebrasilatual.com.br/cidadania/campanha-denuncia-privilegios-dos-super-ricos-do-agronegocio/) em prol do bém-estar do agronegócio, o Sul independente teria que aprender a viver sem essa proteção.
 
 Outro grande problema seria a crise energética, sim a usina hidrelétrica de Itaipu, responsável por abastecer as regiões sul, sudeste e centro-oeste do Brasil, logicamente que continuaria do Brasil levando o suposto "País Sul" a enfrentar grandes dificuldades energéticas.
